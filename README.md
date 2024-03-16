@@ -17,7 +17,7 @@ The results show that the PSNR of defocused signal was enhanced by more than 1.2
 high-resolution imaging of blood vessels further verified that the proposed method can effectively overcome the deterioration of the signal and the spatial resolution due to the narrow depth of field of optical-resolution photoacoustic microscopy. 
 </div>
 
-# Virtual OR-PAM for dataset acquisition. GB, Gaussian beam; S, sample; UT, ultrasonic transducer. 
+# Virtual OR-PAM for dataset acquisition.
 ![image](https://github.com/yqx7150/FD-Unet/assets/26964726/693a20ab-dc6d-40f7-af10-76c2e20139b3)
 
 # Diagram of the FD-U-Net architecture.
