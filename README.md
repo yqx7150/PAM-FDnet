@@ -16,3 +16,6 @@ A fully dense U-Net was trained with randomly distributed sources of different s
 The results show that the PSNR of defocused signal was enhanced by more than 1.2 times.An over 2.6-fold enhancement in lateral resolution and an over 3.4-fold enhancement in axial resolution of defocused regions were achieved. The large volumetric and
 high-resolution imaging of blood vessels further verified that the proposed method can effectively overcome the deterioration of the signal and the spatial resolution due to the narrow depth of field of optical-resolution photoacoustic microscopy. 
 </div>
+
+# Virtual OR-PAM for dataset acquisition. GB, Gaussian beam; S, sample; UT, ultrasonic transducer. 
+![image](https://github.com/yqx7150/FD-Unet/assets/26964726/693a20ab-dc6d-40f7-af10-76c2e20139b3)
