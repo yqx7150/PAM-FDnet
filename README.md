@@ -19,3 +19,6 @@ high-resolution imaging of blood vessels further verified that the proposed meth
 
 # Virtual OR-PAM for dataset acquisition. GB, Gaussian beam; S, sample; UT, ultrasonic transducer. 
 ![image](https://github.com/yqx7150/FD-Unet/assets/26964726/693a20ab-dc6d-40f7-af10-76c2e20139b3)
+
+# Diagram of the FD-U-Net architecture.
+![image](https://github.com/yqx7150/FD-Unet/assets/26964726/2f721244-e893-4ca3-a0bc-af297e6cdf1d)
