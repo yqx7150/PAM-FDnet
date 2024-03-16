@@ -1,6 +1,7 @@
 # PAM-FDnet
 Paper: Noise-insensitive defocused signal and resolution enhancement for optical-resolution photoacoustic microscopy via deep learning
 Authors: Rui Wang, Zhipeng Zhang, Ruiyi Chen, Xiaohai Yu, Hongyu Zhang, Gang Hu, Qiegen Liu, Xianlin Song
+
 J Biophotonics. 2023 Oct;16(10):e202300149.
 https://doi.org/10.1002/ibio.202300149
 
